@@ -33,7 +33,7 @@ Your **code** needs to perform the following tasks:
 2. Prepare ~3 descriptive statistics that convey an overview of the structured data.
 3. Perform exploratory analysis of the narrative text, analyzing common words, their use over time, and generate 2-3 plots.
 4. Use topic modeling or any other text clustering methodology to cluster/group the incidents based on the narrative text and/or probable cause descriptions. Come up with a short name for each topic or cluster you identify to make it easy to report on.
-5. Use an AI-assisted method to validate that 5-10 representative incidents from each cluster correctly (or incorrectly) belong to the cluster and if the cluster name accurately captures the incident. Iterate this if you have time, revising names/clusters as your validation effort dictates. Clustering is rarely 100% perfect. Are there trends to the incorrect incidents in a cluster?
+5. Use an AI-assisted method to examine a small sample of incidents from at least 2 clusters. Assess whether the cluster assignment and cluster name appear reasonable. Briefly describe what you learned and, if applicable, one change you would make with additional time.
 * Use any tool you like, but we don't expect you to pay for pro access. For example, Gemini AI Studio or Huggingchat are useful free AI tools. If the free tier limited your work, we can discuss how it limited you and what you would need to solve that limitation (token limitations, security approvals etc are a common issue for today's data scientists)!
 
 Your **writeup** should do the following:
