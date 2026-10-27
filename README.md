@@ -13,7 +13,7 @@ Welcome to Exercise 02. This exercise provides data from the [National Transport
 
 OPTION 1
 If you wish to submit via an emailed zip file:
-1. Clone this repository or [download the code as a zip file](ZIP_ASSET_DOWNLOAD_LINK)
+1. Clone this repository or [download the code and data as a zip file](https://github.com/RTIInternational/data-scientist-exercise02/releases/download/v2.0/data-scientist-exercise02.zip)
 2. Extract this repo and work locally with the code.
 3. When finished, zip your project folder (code and writeup) and submit to the email you received the exercise from. Do not encrypt or add a password to the zip.
 
